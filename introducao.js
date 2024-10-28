@@ -1,4 +1,12 @@
 console.log('Olá mundo!');
 
-// assign 5 to num
-num = 5
+let idade = 32
+
+console.log(`manoel tem 18 anos`);
+
+
+let student = {
+    firstname : 'john',
+    lastname : null,
+    class : 10
+};  
